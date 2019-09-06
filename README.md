@@ -10,11 +10,11 @@ If a component schematic symbol or footprint required for a board is not already
 
 Schematic symbols, specifically ICs, should follow these appearance guidelines.
 
--(A) Pin Name text size: 1.270 mm
--(B) Pin Number text size: 1.270 mm
--(C) Pin Length: 2.540 mm
--(D) Separation between pins: 2.540 mm
--(E) Fill component background
+- (A) Pin Name text size: 1.270 mm
+- (B) Pin Number text size: 1.270 mm
+- (C) Pin Length: 2.540 mm
+- (D) Separation between pins: 2.540 mm
+- (E) Fill component background
 
 Avoid multi-part components unless doing do greatly improves organization. Pins do not necessarily need to be placed in order; if moving a pin allows wires to be uncrossed or placed in a more organized way then moving the pin is preferred.
 
