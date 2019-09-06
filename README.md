@@ -17,7 +17,7 @@ Schematic symbols, specifically ICs, should follow these appearance guidelines.
 (E) Fill component background
 Avoid multi-part components unless doing do greatly improves organization. Pins do not necessarily need to be placed in order; if moving a pin allows wires to be uncrossed or placed in a more organized way then moving the pin is preferred.
 
-Add documentation to the component by going to `Edit component properties -> Description`. Under `Description`, paste the part's description from Digi-Key or a short description of the part. Under Keywords, place the part's Digi-Key part number, or manufacturer part number. Under `Documentation File Name`, place a link to the part's datasheet.
+Add documentation to the component by going to `Edit component properties -> Description`. Under `Description`, paste the part's description from Digi-Key or a short description of the part. Under `Keywords`, place the part's Digi-Key part number, or manufacturer part number. Under `Documentation File Name`, place a link to the part's datasheet.
 
 To save a new schematic symbol, first determine the [family](https://www.digikey.com/eewiki/display/Resources/Become+a+Digi-Key+Master#BecomeaDigi-KeyMaster-Digi-KeyTerminology) that the component belongs to in Digi-Key. If the part is not on Digi-Key, make your best guess based on the part's function. If the part's family already has a library (.lib) file in this repository, save the component to that library. If the family library file does not exist, save it to a new library file in the `JapSethi-symbols` folder using the following naming scheme:
 
