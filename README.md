@@ -29,4 +29,4 @@ Part names should try to follow the convention:
 
 `Part_Function_Part-Number`
 
-Follow the part's datasheet's recommended footprint layout. The footprint should include the part REF**, a pin 1 indicator, and any part outlines or graphics on front silkscreen (F.silkS). All custom part footprints are saved to the ' JapSethi-footprints.pretty ' folder
+Follow the part's datasheet's recommended footprint layout. The footprint should include the part REF**, a pin 1 indicator, and any part outlines or graphics on front silkscreen (F.silkS). All custom part footprints are saved to the `JapSethi-footprints.pretty` folder
