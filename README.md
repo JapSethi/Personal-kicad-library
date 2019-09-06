@@ -4,6 +4,8 @@ Custom KiCad parts library containing parts not available in KiCad's default kic
 
 ## Creating a Custom Component
 
+If a component schematic symbol or footprint required for a board is not already available in KiCad's default kicad-library repository, Digi-Key's digikey-kicad-library repository, or this repository, then a new component symbol or footprint must be created. The following guidelines should be followed for schematic symbol and footprint creation:
+
 ### Schematic Symbols: 
 
 Schematic symbols, specifically ICs, should follow these appearance guidelines.
@@ -19,7 +21,7 @@ Add documentation to the component by going to 'Edit component properties -> Des
 
 To save a new schematic symbol, first determine the [family](https://www.digikey.com/eewiki/display/Resources/Become+a+Digi-Key+Master#BecomeaDigi-KeyMaster-Digi-KeyTerminology) that the component belongs to in Digi-Key. If the part is not on Digi-Key, make your best guess based on the part's function. If the part's family already has a library (.lib) file in this repository, save the component to that library. If the family library file does not exist, save it to a new library file in the 'JapSethi-symbols' folder using the following naming scheme:
 
-'JapSethi_Family-Name.lib'
+'''JapSethi_Family-Name.lib'''
 
 ### Footprints
 
