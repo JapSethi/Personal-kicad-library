@@ -1,6 +1,6 @@
 # Personal-kicad-library
-My Personal KiCad Library of symbols created during MSc Research
-Custom KiCad parts library containing parts not available in KiCad's default kicad-library repository or Digi-Key's digikey-kicad-library. This repository attempts to follow Digi-Key's organizational structure for ease of component purchasing.
+My Personal KiCad Library of Custom KiCad part symbols created during MSc Research
+and not available in KiCad's default kicad-library repository or Digi-Key's digikey-kicad-library. This repository attempts to follow Digi-Key's organizational structure for ease of component purchasing.
 
 ## Creating a Custom Component
 
